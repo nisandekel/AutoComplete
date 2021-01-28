@@ -14,3 +14,8 @@ git clone https://github.com/nisandekel/AutoComplete.git
 2. go into the repository and install all the dependecies:
 npm install
 
+3. run the app:
+npm start
+
+4. go to http://localhost:3000/ and start typing!
+
